@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'LetteraMono';
+    src: url('https://bluefalconhd.github.io/NothingFonts/LetteraMonoLLCondLight-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NType82';
+    src: url('https://bluefalconhd.github.io/NothingFonts/NType82-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NType82Mono';
+    src: url('https://bluefalconhd.github.io/NothingFonts/NType82Mono-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ndot-55';
+    src: url('https://bluefalconhd.github.io/NothingFonts/Ndot-55.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
